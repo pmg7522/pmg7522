@@ -1,3 +1,3 @@
 ## Introduction
 
-👋🏻 **Hi, I'm a Node.js Backend Developer, Min-gyu Park**   
+👋🏻 **Hi, I'm a Backend Developer, Min-gyu Park**   
